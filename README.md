@@ -1,3 +1,3 @@
-# 42-Microshell
+# Microshell
 
 Example of Microshell for the Exam04 of 42
